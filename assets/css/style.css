@@ -1,0 +1,24 @@
+#container {
+    background-image:url(../images/tetons.jpeg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+}
+.main-container {
+    padding: 20px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 20px;
+    font-family: 'Amatic SC', cursive;
+    font-size: 34px;
+}
+
+#img {
+    margin: 0 auto;
+}
+
+#winImage {
+    width:300px;
+}
